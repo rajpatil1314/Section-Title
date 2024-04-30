@@ -1,0 +1,110 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav
+{
+    height: 80px;
+    width: 100%;
+    background-color:rgb(241, 236, 236);
+    line-height: 80px;
+}
+.navbar
+{
+    width: 80%;
+    margin: auto;
+}
+h2
+{
+    float: left;
+}
+ul
+{
+    float: right;
+}
+li
+{
+    float: right;
+    list-style: none;
+    padding:0px 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif;  
+}
+li a
+{
+    text-decoration: none;   
+}
+
+.menu
+{
+    padding: 0px 30px;
+}
+.banner
+{
+    height:95vh;
+    width: 100%;
+    background:linear-gradient(rgba(33, 32, 32, 0.5),rgba(154, 0, 121, 0.5)), url(https://images.unsplash.com/photo-1507250671672-b76f9dde4188?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+.para 
+{
+    color: white;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%; 
+}
+h1
+{
+    padding: 0px  0px 30px 0px;
+    font-family: 'Dancing Script';
+    word-spacing: 20px;
+    font-size: 55px;
+    transition: 0.5s all ease-in-out;
+}
+h1:hover 
+{
+   color: rgb(222, 54, 222);
+}
+ button
+{
+    color: white;
+    border: 1px solid white;
+     background-color: transparent;
+     position: absolute;
+     padding: 15px 30px;
+     transform: translate(-50% -50%);
+     top: 55%;
+    left: 45%;   
+}
+ button:hover
+{
+    color: white;
+    background: linear-gradient(to right, rgb(233, 116, 233), rgb(39, 169, 220));
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
